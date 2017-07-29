@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\users\\user.desktop-ndd0qe0\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\User.DESKTOP-NDD0QE0\\Desktop\\Uni2k17\\MSA\\Phase1Module2Repo\\App1\\App1.UWP\\App1.UWP.csproj",
       "projectName": "App1.UWP",
-      "projectPath": "c:\\users\\user.desktop-ndd0qe0\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
-      "projectJsonPath": "c:\\users\\user.desktop-ndd0qe0\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1.UWP\\project.json",
+      "projectPath": "C:\\Users\\User.DESKTOP-NDD0QE0\\Desktop\\Uni2k17\\MSA\\Phase1Module2Repo\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\User.DESKTOP-NDD0QE0\\Desktop\\Uni2k17\\MSA\\Phase1Module2Repo\\App1\\App1.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "c:\\users\\user.desktop-ndd0qe0\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "c:\\users\\user.desktop-ndd0qe0\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj"
+            "C:\\Users\\User.DESKTOP-NDD0QE0\\Desktop\\Uni2k17\\MSA\\Phase1Module2Repo\\App1\\App1\\App1.csproj": {
+              "projectPath": "C:\\Users\\User.DESKTOP-NDD0QE0\\Desktop\\Uni2k17\\MSA\\Phase1Module2Repo\\App1\\App1\\App1.csproj"
             }
           }
         }

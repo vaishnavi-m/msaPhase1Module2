@@ -12,6 +12,16 @@ namespace App1
         public MainPage()
         {
             InitializeComponent();
+            myButton.Clicked += async (s, e) =>
+            {
+                Button button = (Button)s;
+                await DisplayAlert("Clicked!",
+                    "The button labeled '" + button.Text + "' has been clicked",
+                    "OK");
+                await Navigation.PushModalAsync(new Grid1());
+            };
+        
         }
+
     }
 }
